@@ -3,8 +3,8 @@
 ### Professor: Marcos
 ## Aluna: Cícera Monique
 ### Turma: 8B
-#### Data: 15/09/22
-![[20220915_191050_0000 1.png]]
+#### Dados: 15/09/22
+[20220915_191050_0000 1.png](https://raw.githubusercontent.com/Monique20228B/A-v--LIA2022/main/20220915_191050_0000%201.png)
 
 QT|ITEN|DESCRIÇÃO DO PRODUTO|VALOR UNITÁRIO|VALOR FINAL| 
 |:--|:--|:--|:--|:--|
